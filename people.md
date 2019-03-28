@@ -2,4 +2,4 @@
 
 | People        | Github        |
 | ------------- |:-------------:|
-| Vasilis Psychas | [psychas](https://github.com/psychas/) |
+| Psychas Vasilis | [psychas](https://github.com/psychas/) |
