@@ -11,6 +11,5 @@
 | Alexandr Melnic | [AlexandrMel](https://github.com/AlexandrMel)
 | Amelle Said-Saleh | [Amelles](https://github.com/Amelles/)
 | Mahamadi congo| [princebalck](https://github.com/princeblack/)
-| Vasilis Psychas | [psychas](https://github.com/psychas/)|
 | Osward Gust Martinez | [ogustm](https://github.com/ogustm/) |
 | Albert | [AJEdelmann](https://github.com/AJEdelmann/) |
