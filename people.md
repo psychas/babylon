@@ -2,4 +2,4 @@
 
 | People        | Github        |
 |---------------|:-------------:|
-Swantje R.-Antonelli| https://github.com/casinca4|
+Swantje R.-Antonelli| [casinca4] (https://github.com/casinca4)|
