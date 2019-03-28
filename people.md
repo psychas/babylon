@@ -1,4 +1,5 @@
 ## Babylon people
 
-| People        | Github        |
+| People        | Github        | 
+|---|---|
 | AlexandrMel  |[Alexandrmel](https://github.com/AlexandrMel) |
