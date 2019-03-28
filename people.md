@@ -4,11 +4,13 @@
 | ------------- |:-------------:| -----:|
 | Vasilis Psychas | [psychas](https://github.com/psychas/) |
 | Maria Tortosa | [mafetortosa](https://github.com/mafetortosa/) |
-| Vlad Haragea | [VladH](https://github.com/vladharagea) |
-| Irem Peker | [IremPeker](https://github.com/psychas/) |
-| Alexandr Melnic | [AlexandrMel](https://github.com/AlexandrMel) |
-| Florian Bux | [florianbux](https://github.com/florianbux/) |
-| Mahamadi congo| [princebalck](https://github.com/princeblack/) |
-| Amelle Said-Saleh | [Amelles](https://github.com/Amelles/) |
+| Maurice Schubarth | [Maurice](https://github.com/moequan)
+| Florian Bux | [florianbux](https://github.com/florianbux/)
+| Vlad Haragea | [VladH](https://github.com/vladharagea)
+| Irem Peker | [IremPeker](https://github.com/psychas/)
+| Alexandr Melnic | [AlexandrMel](https://github.com/AlexandrMel)
+| Amelle Said-Saleh | [Amelles](https://github.com/Amelles/)
+| Mahamadi congo| [princebalck](https://github.com/princeblack/)
+| Vasilis Psychas | [psychas](https://github.com/psychas/)|
 | Osward Gust Martinez | [ogustm](https://github.com/ogustm/) |
 | Albert | [AJEdelmann](https://github.com/AJEdelmann/) |
