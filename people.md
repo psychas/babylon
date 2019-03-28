@@ -1,4 +1,4 @@
 ## Babylon people
 
 | People | Github |
-| Firat |[vonBlitz1](https://github.com/vonBlitz1)|
+| mohammad almezyad |[almeyzad](https://github.com/almeyzad90)|
