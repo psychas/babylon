@@ -1,4 +1,5 @@
 ## Babylon people
 
 | People        | Github        |
-| Maria Tortosa |[mafetortosa]| [https://github.com/mafetortosa]
+| ------------- |:-------------:|
+| Maria Tortosa |[mafetortosa](https://github.com/mafetortosa)|
