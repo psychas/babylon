@@ -2,4 +2,5 @@
 
 | People        | Github        |
 | ------------- |:-------------:| 
-| Vasilis Psychas | [psychas](https://github.com/psychas/)
+| Vasilis Psychas | [psychas](https://github.com/IremPeker)
+| Irem Peker | [IremPeker](https://github.com/psychas/)
