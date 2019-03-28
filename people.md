@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 | Vasilis Psychas | [psychas](https://github.com/psychas/)
 <<<<<<< HEAD
+<<<<<<< HEAD
   Maurice Schubarth [Maurice](https://github.com/moequan)
 =======
 | Florian Bux | [florianbux](https://github.com/florianbux/)
@@ -20,3 +21,6 @@ Maurice Schubarth [Maurice](https://github.com/moequan)
 | Irem Peker | [IremPeker](https://github.com/psychas/)
 | Alexandr Melnic | [AlexandrMel] (https://github.com/AlexandrMel)
 >>>>>>> 91cad94105441a9bb654dc6b207d3ae3722500e2
+=======
+| Amelle Said-Saleh | [Amelles](https://github.com/Amelles/)
+>>>>>>> 9469650ab95e33658a06732a95a46bd35bc0b6eb
